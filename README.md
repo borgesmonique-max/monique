@@ -12,7 +12,7 @@
 
    </h2>Meu primero post</h2>
    <p>Por:Monique K. Borges</p>
-   <p>Boas-vinda ao meu novo blog! Aqui vou compartilhar dicas de programação 
+   <p>Boas-vinda ao meu novo blog! Aqui vou compartilhar dicas de programação e curiosidades da área de tecnologia.
    
      
     
